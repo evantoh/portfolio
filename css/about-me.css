@@ -2,6 +2,8 @@ h1{
   text-align: center;
   text-transform: uppercase;
   font-family: sans-serif;
+  color: #7B1FA2;
+  font-style: oblique;
 
 }
 .sidebar{
@@ -12,7 +14,4 @@ h1{
 }
 .cats p {
 background-color: coral;
-}
-.dogs p {
-background-color: steelblue;
 }
