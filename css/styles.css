@@ -26,3 +26,8 @@ header li{
   background-color: #e8491d;
   text-align: center;
 }
+.btn-home{
+  text-align: center;
+  color: pink;
+  float: right;
+}
