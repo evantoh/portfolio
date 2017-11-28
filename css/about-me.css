@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+
+}
+.sidebar{
+  float: left;
+  width: 300px;
+}
+
+}
+.cats p {
+background-color: coral;
+}
+.dogs p {
+background-color: steelblue;
+}
